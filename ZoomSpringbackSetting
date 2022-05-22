@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-22T12:02:32.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="xVmoFtlcGbyr5OHTUCZn" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-22T12:05:29.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="7iTKlDLdtHUBZxlYI-Rp" version="18.1.1" type="github">
   <diagram id="F5pR2RQC2wbOe1GUq7cD" name="Page-1">
     <mxGraphModel dx="825" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,6 +50,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="489.79999999999995" y="470" as="sourcePoint" />
             <mxPoint x="490" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wE1NNzSzlnU_moaXu_sD-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="294" y="410" as="sourcePoint" />
+            <mxPoint x="294" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wE1NNzSzlnU_moaXu_sD-24" value="最小缩放值" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="340" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wE1NNzSzlnU_moaXu_sD-25" value="最大缩放值" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="340" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wE1NNzSzlnU_moaXu_sD-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="410" as="sourcePoint" />
+            <mxPoint x="470" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
