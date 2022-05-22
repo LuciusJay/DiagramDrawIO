@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-22T13:33:13.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="Hzo0LNnnXZ5emRGZ7zGI" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-22T13:49:17.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="-TsTOvdG8RMNriAh01bT" version="18.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1718" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1718" dy="935" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -89,8 +89,8 @@
         <mxCell id="T7gNaEs8yayM9DsEfDj7-9" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="890" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T7gNaEs8yayM9DsEfDj7-10" value="靠近层级边界特效提示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="1050" width="160" height="60" as="geometry" />
+        <mxCell id="T7gNaEs8yayM9DsEfDj7-10" value="靠近当前层级边界的特效提示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="1050" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T7gNaEs8yayM9DsEfDj7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T7gNaEs8yayM9DsEfDj7-4" target="T7gNaEs8yayM9DsEfDj7-7">
           <mxGeometry relative="1" as="geometry">
@@ -121,12 +121,9 @@
         <mxCell id="T7gNaEs8yayM9DsEfDj7-22" value="执行地图层级跳转" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T7gNaEs8yayM9DsEfDj7-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T7gNaEs8yayM9DsEfDj7-23" target="T7gNaEs8yayM9DsEfDj7-0">
+        <mxCell id="T7gNaEs8yayM9DsEfDj7-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T7gNaEs8yayM9DsEfDj7-23">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="720" y="1340" />
-              <mxPoint x="720" y="770" />
-            </Array>
+            <mxPoint x="870" y="1180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T7gNaEs8yayM9DsEfDj7-23" value="执行自动回弹" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -143,6 +140,22 @@
             <mxPoint x="220" y="1138.58" as="sourcePoint" />
             <mxPoint x="260.00000000000045" y="1138.58" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="T7gNaEs8yayM9DsEfDj7-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T7gNaEs8yayM9DsEfDj7-30" target="T7gNaEs8yayM9DsEfDj7-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T7gNaEs8yayM9DsEfDj7-30" value="依照回弹曲线控制缩放值&lt;br&gt;退回到缩放停留区间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="791" y="903" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T7gNaEs8yayM9DsEfDj7-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T7gNaEs8yayM9DsEfDj7-106" target="T7gNaEs8yayM9DsEfDj7-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T7gNaEs8yayM9DsEfDj7-106" value="屏蔽玩家缩放操作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="791" y="1117" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
